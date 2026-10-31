@@ -1,0 +1,10 @@
+watchdog
+requests
+pystray
+Pillow
+psutil
+pefile
+yara-python
+oletools
+pywin32
+schedule
